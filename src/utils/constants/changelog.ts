@@ -14,6 +14,15 @@ function dateConstructor(str: string): moment.Moment {
 const buildsList: IBuildInfo[] = [
     {
       changelog: [
+        "Added Pack Birhorner Following and new Foliage ",
+        "Fixed some Shop Functions",
+      ],
+      date: "Aug 04, 2019",
+      link: "https://drive.google.com/file/d/1Yz9NDuRcBsTvmsyo49FsXW55QSwErkIa/view?usp=sharing",
+      version: "0.4.8",
+    },
+    {
+      changelog: [
         "Ai can now lunge and should not follow players after respawn",
         "Fixed Item Spamming From Containers",
       ],
