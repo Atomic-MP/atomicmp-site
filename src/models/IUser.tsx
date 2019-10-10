@@ -19,6 +19,7 @@ interface IUser {
   z_pos: number;
   rotation: number;
   inventory: any[];
+  xp: number;
 }
 
 export default IUser;
