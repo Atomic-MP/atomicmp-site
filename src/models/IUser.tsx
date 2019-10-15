@@ -18,6 +18,7 @@ interface IUser {
   y_pos: number;
   z_pos: number;
   rotation: number;
+  xp: number;
   inventory: any[];
   xp: number;
 }
